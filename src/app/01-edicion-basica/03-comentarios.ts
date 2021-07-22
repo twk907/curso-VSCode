@@ -5,7 +5,7 @@
     Tips:
         ⌘ /
         
-        Ctrl + \
+        Ctrl + \        // Este no me sale no se como 
 */
 
 const a = 10;

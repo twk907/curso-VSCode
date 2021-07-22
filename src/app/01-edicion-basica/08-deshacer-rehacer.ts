@@ -5,11 +5,10 @@
     Tips:
         ⌘ Z
         ⌘ ⇧ Z
-        Ctrl +Z
+        Ctrl +Z   //SI
         Ctrl + Shift + Z
 
 */
-
 
 
 

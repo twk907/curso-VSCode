@@ -4,7 +4,7 @@
 
     Tips:
         ⇧ ⌘ K
-        Ctrl + Shift + K
+        Ctrl + Shift + K   // Elimina la linea de codigo   
 
     PRO:
         Seleccionar todas las ocurrencias de la selección

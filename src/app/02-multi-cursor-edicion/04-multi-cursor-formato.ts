@@ -5,7 +5,7 @@
 
     Tips:
         ⇧ ⌥ ↑ / ↓
-        Ctrl + Alt+ ↑ / ↓
+        Ctrl + Alt+ ↑ / ↓       // Dando espacios cada vez que agrego multicursores
 */
 
 const hulk = 'brouce banner';

@@ -5,13 +5,19 @@
     
     Tips:
         ⇧ ⌥ ↑ / ↓
-        Ctrl + Alt+ ↑ / ↓
+        Ctrl + Alt+ ↑ / ↓   //
 
 */
 
-// Crear un arreglo con los días de la semana
+// Crear un arreglo con los días de la semana    // Seleccionarlos a todos con multicursor agregar la coma, y con Supr, se juntan en una sola linea
 
-
+//Lunes
+//Martes
+//Miercoles
+//Jueves
+//Viernes
+//Sabado
+//Domingo
 
 
 

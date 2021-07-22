@@ -4,7 +4,8 @@ command + P : Markdown Open Preview
 command + P : Markdown Open Preview to the side
 
 Ctrl + P : Markdown Open Preview
-Ctrl + P : Markdown Open Preview to the side
+Ctrl + P : Markdown Open Preview to the side   
+// Ctrl + shift + V asi es como se abre la vista previa
 ```
 
 # Dillinger

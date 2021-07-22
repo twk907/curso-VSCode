@@ -7,7 +7,7 @@
         Ir a la definición F12
 
         Ojear definición   Alt + F12
-        Ir a la definición F12
+        Ir a la definición F12      //SI
 */
 
 import { saludar } from './extra/funciones';

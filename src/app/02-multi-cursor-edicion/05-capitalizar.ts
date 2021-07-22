@@ -10,7 +10,7 @@
 
         Ctrl + Alt+ ↑ / ↓
         Ctrl + Shift + U
-        Ctrl + Shift + L
+        Ctrl + Shift + L        //// Capitalize = Ctrl + Alt + O     Minusculas = Ctrl + alt + L
 
     Pro:
         Mostrar la paleta de comandos

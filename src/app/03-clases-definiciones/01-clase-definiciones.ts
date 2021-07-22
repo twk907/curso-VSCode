@@ -8,7 +8,7 @@
         ⇧ ⌘ O
 
         Ctrl + P => luego escribir la @
-        Ctrl + Shift = O
+        Ctrl + Shift = O            //Sirve para ver donde se utiliza la definicion sobre la cual estoy parado con el cursor
 
         Se pueden agrupar si después de la @, se escriben :
 */
